@@ -1,0 +1,38 @@
+(Disclaimer: Limited data and information availability)
+
+Layer 1
+Name: Urban dewlling in Castille y Leon, Spain
+Type: dataset; Vector Data (appearing in dots). 
+Description: 420 pieces of data in Castille y Leon, Spain. 
+Source: /Users/hannahviljoen/Downloads/viv_cyl_alq_rehabitare/viv_cyl_alq_rehabitare.shp. https://idecyl.jcyl.es/vcig/
+Projection: SOURCECRS - Projected 
+Attributes: String, real and integer data types. 
+
+Layer 2
+Name: Agricultural regions in Segovia, Spain. 40_POLFE
+Type: Raster data, dataset. 
+Description: 3 374 pieces of data information. Polygon (MultiPolygon). 
+Source: https://idecyl.jcyl.es/vcig/
+Projection: Geographic (uses latitude and longitude for coordinates), Geographic (2D), dataset. Uses CRS: EPSG:4258 - ETRS89 - Geographic.
+Attributes: Real and Integer data.
+
+Layer 3
+Name: hh.salud_cyl_areas- Health in CyL: Health Areas
+Type: Raster data, dataset. 
+Description: Polygon (MultiPolygon) geometry, 11 pieces of data information 
+Source: /Users/hannahviljoen/Documents/GIS/hh.salud_cyl_areas/hh.salud_cyl_areas.shp. hh.salud_cyl_areas.prj, hh.salud_cyl_areas.qpj, hh.salud_cyl_areas.dbf, hh.salud_cyl_areas.shx. 
+Projection: Projected, EPSG:25830 - ETRS89 / UTM zone 30N, Universal Transverse Mercator (UTM) method, reference type: Static (relies on a datum which is plate-fixed). CRS: EPSG:25830 - ETRS89 / UTM zone 30N - Projected
+Attributes: Key attributes and their descriptions, integer and string data
+
+Analysis Process
+Gathering data samples from https://idecyl.jcyl.es/vcig/ Castille y leon website. Implementing attribute tables and properties of shapefile layers in QGIS. 
+
+
+
+
+
+
+
+
+
+
